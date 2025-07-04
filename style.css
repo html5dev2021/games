@@ -1,0 +1,22 @@
+*{
+  text-decoration:none;
+}
+
+.navbar {
+  background: crimson;
+  font-family: calibri;
+  padding-right:15px;
+  padding-left:15px;
+}
+
+.navdiv {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logodiv a{
+  font-size: 35px;
+  font-weight: 600;
+  color: white;
+}
